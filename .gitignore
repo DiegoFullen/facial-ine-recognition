@@ -1,2 +1,3 @@
 datasets/same
 datasets/different
+*.pyc
