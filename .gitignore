@@ -1,3 +1,4 @@
 datasets/same
 datasets/different
 *.pyc
+photo_test/*.jpg
